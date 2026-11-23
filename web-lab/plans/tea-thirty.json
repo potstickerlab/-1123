@@ -1,0 +1,11 @@
+{
+  "name": "紅茶案例：預設路人、只上架紅茶 30 杯、25 元、不宣傳",
+  "pack": "default",
+  "days": [
+    { "items": [ { "name": "紅茶", "qty": 30, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "紅茶", "qty": 30, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "紅茶", "qty": 30, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "紅茶", "qty": 30, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "紅茶", "qty": 30, "price": 25 } ], "promoCost": 0 }
+  ]
+}

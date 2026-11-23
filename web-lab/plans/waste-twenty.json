@@ -1,0 +1,11 @@
+{
+  "name": "報廢案例：預設路人、只上架招牌 20 份、70 元、不宣傳",
+  "pack": "default",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 70 } ], "promoCost": 0 }
+  ]
+}
