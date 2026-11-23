@@ -1,0 +1,11 @@
+{
+  "name": "五份招牌案例：預設路人、只上架招牌 5 份、70 元、不宣傳",
+  "pack": "default",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 5, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 5, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 5, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 5, "price": 70 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 5, "price": 70 } ], "promoCost": 0 }
+  ]
+}
